@@ -8,7 +8,7 @@ on:431242432144321dsa
   push:4321424dsaddsadsa
     branches: [ "main" ]dsad
   pull_request:43124124dasdasdsad
-    branches: [ "main" ]321312dsadsadasdsdad
+    branches: [ "main" ]321312dsadsadasdsdaddsadad
   # Allows you to run this workflow manually froasdam the Actions tabdsadsa
   workflow_dispatch:dsad
 
