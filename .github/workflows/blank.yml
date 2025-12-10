@@ -7,7 +7,7 @@ on:
   # Triggers the workflow on push or pul321213123l request events but only for the "main" branch
   push:
     branches: [ "main" ]
-  pull_request:
+  pull_request:43124124
     branches: [ "main" ]
 
   # Allows you to run this workflow manually from the Actions tab
