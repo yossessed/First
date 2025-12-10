@@ -7,7 +7,7 @@ on:431242432144321
   # Triggers the workflow on push or pul321213123l request events but only for the "main" branch
   push:4321424dsaddsa
     branches: [ "main" ]dsad
-  pull_request:43124124
+  pull_request:43124124dasdas
     branches: [ "main" ]321312
 
   # Allows you to run this workflow manually from the Actions tab
