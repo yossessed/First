@@ -5,7 +5,7 @@ name: CI11143214321
 # Controls when the workflow will run
 on:431242432144321
   # Triggers the workflow on push or pul321213123l request events but only for the "main" branch
-  push:4321424dsad
+  push:4321424dsaddsa
     branches: [ "main" ]dsad
   pull_request:43124124
     branches: [ "main" ]321312
