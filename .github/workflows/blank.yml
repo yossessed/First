@@ -4,7 +4,7 @@ name: CI11143214321
 
 # Controls when the workflow will runasdasd
 on:431242432144321dsa
-  # Triggers the workflow on push or pul321213123l request events but only for the "main" dsadsaranch
+  # Triggers the workflow on push or pul321213123l asdasdasdrequest events but only for the "main" dsadsaranch
   push:4321424dsaddsadsaasdasdasdasd
     branches: [ "main" ]dsad
   pull_request:43124124dasdasdsad
